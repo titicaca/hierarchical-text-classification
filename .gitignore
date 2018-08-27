@@ -1,0 +1,5 @@
+.idea
+data
+dist
+*.egg-info
+venv
